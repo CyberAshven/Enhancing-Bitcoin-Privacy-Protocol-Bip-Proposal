@@ -1,5 +1,4 @@
 # Enhancing-Bitcoin-Privacy-Protocol-Bip-Proposal
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Enhancing Privacy in the Bitcoin Protocol</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bandarfaqih</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 Abstract
@@ -39,3 +38,6 @@ We acknowledge that there may be technical challenges to implementing these feat
 Conclusion
 
 Bitcoin was originally conceived as a decentralized, peer-to-peer payment system that would allow users to transact without the need for intermediaries. However, the current level of transparency on the Bitcoin network has raised concerns about the privacy and security of Bitcoin users. By implementing privacy-enhancing features such as CoinJoin, zk-SNARKs, ring signatures, and stealth addresses directly into the Bitcoin protocol, we can help ensure that Bitcoin remains a viable payment system for users who value privacy and anonymity.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Enhancing Privacy in the Bitcoin Protocol</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bandarfaqih</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
